@@ -1,7 +1,7 @@
 ### Hi there, i'm Pedro Quintans!
 
-- 🔭 I’m currently working on my final papers to my computer technician course, MyLocker.
-- 🌱 I’m currently learning Node.js and Typescript
+- 🔭 I’m currently working on Cotexo Tecnologia.
+- 🌱 I’m currently learning Typescript, Angular and C#.
 - 😄 Pronouns: he/him
 
 <div align="center">
