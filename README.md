@@ -1,7 +1,7 @@
 ### Hi there, i'm Pedro Quintans!
 
 - 🔭 I’m currently working on Cotexo Tecnologia.
-- 🌱 I’m currently learning Typescript, Angular and C#.
+- 🌱 I’m currently refining my skill in Typescript, Angular and C#.
 - 😄 Pronouns: he/him
 
 <div align="center">
