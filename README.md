@@ -1,6 +1,6 @@
 ### Hi there, i'm Pedro Quintans!
 
-- 🔭 I’m currently working on Cotexo Tecnologia.
+- 🔭 I’m currently working at Partsfy.
 - 🌱 I’m currently refining my skill in Typescript, Angular and C#.
 - 😄 Pronouns: he/him
 
